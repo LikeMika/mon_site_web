@@ -1,4 +1,8 @@
-tmp/todo.txt
 tmp/*
+<<<<<<< HEAD
 *.xml
 *.txt
+=======
+*.txt
+*jpg
+>>>>>>> 42cf2adc7fb623a9de57483f29e6d7e713ec4049
