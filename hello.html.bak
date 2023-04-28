@@ -37,7 +37,7 @@
 			Ma récompense
 			</h1>
 			<p>
-			<img src="images\medal_bronze.png" >
+			<img src="images\medal_bronze.png" ><img src="images\medal_silver.png" >
 			</p>
 		</div>
 		
@@ -59,9 +59,15 @@
 			<p>
 			git pull
 			</p>
+<<<<<<< HEAD
+=======
 			<p>
 			git push
 			</p>
+			<p>
+			git merge
+			</p>
+>>>>>>> BRANCH_A_MERGE
 		</div>
 		
 	
